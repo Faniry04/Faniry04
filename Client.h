@@ -12,8 +12,8 @@ public :
     char nom;
     char prenom;
 private :
-    Date date_naissance;
-    char Id;
+    char _dateNaissance;
+    char _Id;
 };
 
 
